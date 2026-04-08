@@ -17,6 +17,11 @@ env/
 # Zed
 .zed
 
+# Zed Python settings
+pyrightconfig.json
+ruff.toml
+
+
 # Distribution / packaging
 dist/
 build/
